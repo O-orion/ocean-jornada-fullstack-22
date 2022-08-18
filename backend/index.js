@@ -3,7 +3,7 @@ const { MongoClient } = require("mongodb");
 
 const url = "mongodb+srv://admin:GKZagjYKLpPt2xHh@cluster0.adror16.mongodb.net/?retryWrites=true&w=majority";
 // const url = "mongodb+srv://admin:LdQHrR3iAM9u4Mtw@cluster0.ih1f4.mongodb.net";
-const dbName = "Cluster0";
+const dbName = "ocean_bancodedados";
 
 // Declaração da função main()
 async function main() {
